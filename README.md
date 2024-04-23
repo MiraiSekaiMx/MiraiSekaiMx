@@ -56,7 +56,7 @@
       width="40" height="40" />&nbsp;
        <img src="https://static-00.iconduck.com/assets.00/file-type-qlikview-icon-512x497-sjcwjpwe.png" title="Qlikview" alt="Qlik"
       width="40" height="40" />&nbsp; 
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzM3eXNwdDg2NWRvZnNncmZleGUyaG80cWRya2lrN3F6cGo1anlybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif" width="85" /> title="talk data to me !" "uwu"
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzM3eXNwdDg2NWRvZnNncmZleGUyaG80cWRya2lrN3F6cGo1anlybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif" width="85" title="talk data to me !" alt="uwu" />
   </div>
 
 ---
