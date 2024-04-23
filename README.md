@@ -1,15 +1,7 @@
-### Hi there 👋
-![alt text](
-[![banner-github.png](https://i.postimg.cc/fL0kysDd/banner-github.png)](https://postimg.cc/7GwqtpCP)
-**MiraiSekaiMx/MiraiSekaiMx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<ol>
-<li>Bird</li>
-<li>McHale</li>
-<li>Parish</li>
-</ol>
-
-
+<div id="header" align="center">
+  [![banner-github.png](https://i.postimg.cc/fL0kysDd/banner-github.png)](https://postimg.cc/7GwqtpCP)
+  <h1 align="center"> Hola 👋, Soy Salvador </h1>
+  <h3 align="center"> Un apasionado por descifrar las historias que nos narran los datos. 
 
 
 
