@@ -40,6 +40,8 @@
       width="40" height="40" />&nbsp;
       <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python" alt="Pythons"
       width="40" height="40" />&nbsp;
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169941.png" title="Mysql" alt="SQL"
+      width="40" height="40" />&nbsp;
       <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" title="R" alt="Rs"
       width="40" height="40" />&nbsp;
       <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" title="Microsoft Fabric" alt="Ms Fabric"
