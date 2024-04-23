@@ -5,7 +5,7 @@
 
 [![banner-github.png](https://i.postimg.cc/fL0kysDd/banner-github.png)](https://postimg.cc/7GwqtpCP)
 
-  <h1 align="center">  </h1>
+
 
 <div id="badges" align="center">
   <a href="https://learn.microsoft.com/es-mx/users/salvadordavidgarduorodrguez-2279/" target="_blank">
@@ -18,18 +18,22 @@
   
   ---
   
-### Acerca de Mí : 📑
+  ## Acerca de Mí : 📑
   
+  <div align="left">
+    
 - Actualmente me estoy preparando para la certificación **[DP-600](https://learn.microsoft.com/es-es/credentials/certifications/exams/dp-600/) "Implementación de soluciones de análisis con Microsoft Fabric"** 🥇
     
 - Me gusta mucho el análisis exploratorio de los datos (EDA) 👓
     
-- Suelo utilizar las siguientes librerias: **seaborne, pandas, Numpy, Matplotlib** 📚
+- Suelo utilizar las siguientes librerias: **seaborn, pandas, Numpy, Matplotlib** 📚
     
 - Me puedes contactar atráves de mi email personal: **salvador.david.grdz@gmail.com** 📧
+  
+  </div>
 
 
-<div align="left">
+<div align="center">
   <h3>Lenguajes y Herramientas: 🏗️</h3>
   <div>
       <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/79-excel-512.png" title="Excel" alt="Microsoft Excel"
