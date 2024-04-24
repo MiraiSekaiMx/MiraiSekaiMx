@@ -65,7 +65,7 @@
 
 <div align="center">
   
-  <h3> Certificaciones: 🏆 </h3>
+  <h3> Certificados: 🏆 </h3>
   
   <div>
        <img src="https://image.email.microsoftemail.com/lib/feed1d7871600d/m/1/9dcadebe-400a-405c-878c-e53ae55fe3a2.png" title="IA skills challenge 2024" alt="MS learn challenge"
