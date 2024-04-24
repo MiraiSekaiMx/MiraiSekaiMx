@@ -20,9 +20,9 @@
   
   <div align="left">
     
-- Actualmente me estoy preparando para la certificación **[DP-600](https://learn.microsoft.com/es-es/credentials/certifications/exams/dp-600/) "Implementación de soluciones de análisis con Microsoft Fabric"** 🥇
+- Actualmente me estoy preparando para la certificación **[DP-600](https://learn.microsoft.com/es-es/credentials/certifications/exams/dp-600/) "Implementación de soluciones de análisis con Microsoft Fabric"** 
     
-- Me gusta mucho el análisis exploratorio de los datos (EDA) 👓
+- Me gusta mucho el análisis exploratorio de los datos (EDA) 
     
 - Suelo utilizar las siguientes librerias: **seaborn, pandas, Numpy, Matplotlib** 📚
     
